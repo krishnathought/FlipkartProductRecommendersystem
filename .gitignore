@@ -1,0 +1,3 @@
+.env
+venv/
+flipkart_product_recommender.egg-info/
